@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Moreno Neria</h1>
 <h3 align="center">A passionate Devops from Spain 🇪🇸</h3>
 
-![gif](GITHUB.gif)
+![gif](devops.gif)
 
 - 🌱 I’m currently learning **DevOps skills**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manuelmoreno1801@gmail.com**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1omo2wfKvkTE4QFDHteGuwAgNhSzQzeVE/view?usp=sharing](https://drive.google.com/file/d/18Dbh06YRml8AOSocHAb1KFz4AjzJZwiH/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1omo2wfKvkTE4QFDHteGuwAgNhSzQzeVE/view?usp=sharing](https://drive.google.com/file/d/18Dbh06YRml8AOSocHAb1KFz4AjzJZwiH/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
