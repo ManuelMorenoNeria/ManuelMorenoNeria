@@ -5,15 +5,15 @@
   <img src="git.gif" alt="image" width="450" align="right">
   </p>
 
-- 🙋‍♂️ A passionate Devops from Spain 🇪🇸
+- 🙋‍♂️ A passionate Devops from **Spain** 🇪🇸
 
 - 🌱 I’m currently learning **DevOps skills**
 
-- 👾 All of my projects are available at [GitHub Profile](https://github.com/ManuelMorenoNeria)
+- 👾 All of my projects are available at **[GitHub Profile](https://github.com/ManuelMorenoNeria)**
 
 - 📫 How to reach me **manuelmoreno1801@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1omo2wfKvkTE4QFDHteGuwAgNhSzQzeVE/view?usp=sharing](https://drive.google.com/file/d/18Dbh06YRml8AOSocHAb1KFz4AjzJZwiH/view?usp=sharing))
+- 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1omo2wfKvkTE4QFDHteGuwAgNhSzQzeVE/view?usp=sharing](https://drive.google.com/file/d/18Dbh06YRml8AOSocHAb1KFz4AjzJZwiH/view?usp=sharing))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
