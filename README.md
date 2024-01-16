@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Moreno Neria</h1>
 <h3 align="center">A passionate Devops from Spain 🇪🇸</h3>
-file:///home/2asir/Im%C3%A1genes/Capturas%20de%20pantalla/GITHUB.gif
-
+![gif](GITHUB.gif)
 - 🌱 I’m currently learning **DevOps skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManuelMorenoNeria](https://github.com/ManuelMorenoNeria)
