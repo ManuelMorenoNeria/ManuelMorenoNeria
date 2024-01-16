@@ -4,7 +4,7 @@
 ![gif](GITHUB.gif)
 - 🌱 I’m currently learning **DevOps skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManuelMorenoNeria](https://github.com/ManuelMorenoNeria)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/ManuelMorenoNeria)
 
 - 📫 How to reach me **manuelmoreno1801@gmail.com**
 
