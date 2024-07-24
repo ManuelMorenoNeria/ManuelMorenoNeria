@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **manuelmoreno1801@gmail.com**
 
-- 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1omo2wfKvkTE4QFDHteGuwAgNhSzQzeVE/view?usp=sharing](https://drive.google.com/file/d/18Dbh06YRml8AOSocHAb1KFz4AjzJZwiH/view?usp=sharing))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
