@@ -5,9 +5,9 @@
   <img src="git.gif" alt="image" width="450" align="right">
   </p>
 
-- 🙋‍♂️ A passionate Devops from **Spain** 🇪🇸
+- 🙋‍♂️ A passionate Devops and Linux System Administrator from **Spain** 🇪🇸
 
-- 🌱 I’m currently learning **DevOps skills**
+- 🌱 I’m currently learning **Cibersecurity skills**
 
 - 👾 All of my projects are available at **[GitHub Profile](https://github.com/ManuelMorenoNeria)**
 
