@@ -5,7 +5,7 @@
   <img src="git.gif" alt="image" width="450" align="right">
   </p>
 
-- 🙋‍♂️ A passionate Devops and Linux System Administrator from **Spain** 🇪🇸
+- 🙋‍♂️ A passionate Network and System Administrator from **Spain** 🇪🇸
 
 - 🌱 I’m currently learning **Cibersecurity skills**
 
